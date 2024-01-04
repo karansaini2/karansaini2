@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Karan Saini and I'm a Frontend Developer from Paonta Sahib , Himachal Pradesh .</p>
+<p align="left">My name is Karan Saini and I'm a Full Stack Web Developer from Paonta Sahib , Himachal Pradesh .</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 .<br>📚 I'm currently a Frontend Developer .<br>🎯 Goals: To be a Software Developer .</p>
+<p align="left">✨ Creating bugs since 2020 .<br>📚 I'm currently a Web Developer .<br>🎯 Goals: To be a Software Developer .</p>
 
 ###
 
@@ -40,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
